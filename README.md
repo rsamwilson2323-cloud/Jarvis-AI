@@ -53,6 +53,7 @@ cd JARVIS-AI-Assistant
 3️⃣ Run JARVIS
 python main.py
 
+
 🧑‍💻 Usage
 🟢 Run the program
 🟢 Speak commands like:
@@ -64,7 +65,6 @@ python main.py
 JARVIS will listen and respond 🎧🤖
 🧠 AI Chat Mode
 JARVIS uses AI-powered responses to chat naturally with you.
-
 💬 Ask anything
 🧠 Get smart replies
 ⚡ Real-time interaction
@@ -73,30 +73,34 @@ JARVIS uses AI-powered responses to chat naturally with you.
 Just say:
 “Open YouTube”
 “Search Python tutorials”
-JARVIS handles it instantly 🚀
-🎵 Music Control
+JARVIS handles it instantly 💯
 
+🎵 Music Control
 🎶 Say:
 “Play music”
 “Start song”
 JARVIS will take care of the rest 🎧
 
 🤝 Contributing
+
 Contributions are welcome and appreciated 🙌
 ✔ Fork the repository
 ✔ Create a feature branch
 ✔ Submit a pull request
 
 📜 License
+
 📄 This project is licensed under the MIT License
 Feel free to use, modify, and share.
 
 🙏 Acknowledgments
+
 💡 Inspired by Iron Man’s JARVIS
 🤖 OpenAI for AI capabilities
 🐍 Python community for awesome libraries
 
 ⭐ Support
+
 If you like this project:
 🌟 Star the repo
 🔁 Share with friends
