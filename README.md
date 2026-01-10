@@ -4,13 +4,11 @@ Your Personal AI Companion Inspired by Iron Man
 🧠 Voice-enabled • 🌐 Smart browsing • 🎵 Music control • ⏰ Time awareness
 Inspired by Tony Stark’s JARVIS from Iron Man
 
-
 📌 Overview
 
 JARVIS AI Assistant is a Python-based virtual assistant that brings voice interaction and AI intelligence together.
 It listens, understands, and responds — just like a real assistant.
 Built for learning, experimentation, and real-time interaction, this project combines speech recognition, AI chat, and automation.
-
 
 ✨ Features
 
@@ -24,7 +22,6 @@ Built for learning, experimentation, and real-time interaction, this project com
 🎵 Plays music on command
 ✅ Current Time & Utilities
 ⏰ Tells the current time instantly
-
 
 🛠️ Tech Stack
 
@@ -53,8 +50,8 @@ cd JARVIS-AI-Assistant
 3️⃣ Run JARVIS
 python main.py
 
-
 🧑‍💻 Usage
+
 🟢 Run the program
 🟢 Speak commands like:
 “Open Google”
