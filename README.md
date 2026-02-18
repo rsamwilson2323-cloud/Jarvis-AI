@@ -12,7 +12,6 @@ Built for learning, experimentation, and real-time interaction, this project com
 
 ✨ Features
 
-
 ✅ Voice-Based Interaction
 🎙️ Uses speech recognition to understand voice commands
 ✅ AI Chat Assistant
