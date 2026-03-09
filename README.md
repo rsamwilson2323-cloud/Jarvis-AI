@@ -174,9 +174,6 @@ https://github.com/rsamwilson2323-cloud
 💼 LinkedIn
 https://www.linkedin.com/in/sam-wilson-14b554385
 
-📧 Email
-[rsamwilson2323@gmail.com](mailto:rsamwilson2323@gmail.com)
-
 ---
 
 # 📜 License
